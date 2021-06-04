@@ -87,7 +87,6 @@ const BookSearch = (props) => {
               </button>
             </div>
           </div>
-          <button type="submit">Search</button>
         </form>
         <BookSearchOutput books={foundBooks} />
       </div>
