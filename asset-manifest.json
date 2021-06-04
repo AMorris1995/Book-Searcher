@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Book-Searcher/static/css/main.6d339e8e.chunk.css",
+    "main.js": "/Book-Searcher/static/js/main.0e40939d.chunk.js",
+    "main.js.map": "/Book-Searcher/static/js/main.0e40939d.chunk.js.map",
+    "runtime-main.js": "/Book-Searcher/static/js/runtime-main.64728e0e.js",
+    "runtime-main.js.map": "/Book-Searcher/static/js/runtime-main.64728e0e.js.map",
+    "static/js/2.24954bbf.chunk.js": "/Book-Searcher/static/js/2.24954bbf.chunk.js",
+    "static/js/2.24954bbf.chunk.js.map": "/Book-Searcher/static/js/2.24954bbf.chunk.js.map",
+    "static/js/3.9be26af4.chunk.js": "/Book-Searcher/static/js/3.9be26af4.chunk.js",
+    "static/js/3.9be26af4.chunk.js.map": "/Book-Searcher/static/js/3.9be26af4.chunk.js.map",
+    "index.html": "/Book-Searcher/index.html",
+    "static/css/main.6d339e8e.chunk.css.map": "/Book-Searcher/static/css/main.6d339e8e.chunk.css.map",
+    "static/js/2.24954bbf.chunk.js.LICENSE.txt": "/Book-Searcher/static/js/2.24954bbf.chunk.js.LICENSE.txt",
+    "static/media/id1.7c5f67ce.jpg": "/Book-Searcher/static/media/id1.7c5f67ce.jpg",
+    "static/media/id10.98b10982.jpg": "/Book-Searcher/static/media/id10.98b10982.jpg",
+    "static/media/id2.d7fcf599.jpg": "/Book-Searcher/static/media/id2.d7fcf599.jpg",
+    "static/media/id3.b621f12a.jpg": "/Book-Searcher/static/media/id3.b621f12a.jpg",
+    "static/media/id4.a67c5f36.jpg": "/Book-Searcher/static/media/id4.a67c5f36.jpg",
+    "static/media/id5.ec49c41c.jpg": "/Book-Searcher/static/media/id5.ec49c41c.jpg",
+    "static/media/id6.ac41766d.jpg": "/Book-Searcher/static/media/id6.ac41766d.jpg",
+    "static/media/id7.abfa82b0.jpg": "/Book-Searcher/static/media/id7.abfa82b0.jpg",
+    "static/media/id8.ad5ae329.jpg": "/Book-Searcher/static/media/id8.ad5ae329.jpg",
+    "static/media/id9.ce14634c.jpg": "/Book-Searcher/static/media/id9.ce14634c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64728e0e.js",
+    "static/js/2.24954bbf.chunk.js",
+    "static/css/main.6d339e8e.chunk.css",
+    "static/js/main.0e40939d.chunk.js"
+  ]
+}
