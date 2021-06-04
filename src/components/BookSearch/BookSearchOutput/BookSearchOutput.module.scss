@@ -1,0 +1,56 @@
+.BookSearchOutput {
+  text-align: center;
+  height: fit-content;
+  overflow: auto;
+  &::-webkit-scrollbar {
+    opacity: 1;
+    background: rgba($color: #000000, $alpha: 0.55);
+    width: 5px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: #ccc;
+  }
+  .Books {
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    .Book {
+      width: 300px;
+      border-radius: 8px;
+      margin: 10px;
+      border: 1px solid #ccc;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      position: relative;
+      &:hover {
+        .Overlay {
+          cursor: pointer;
+          display: flex;
+        }
+      }
+      .Overlay {
+        display: none;
+        align-items: center;
+        justify-content: center;
+        flex-flow: column;
+        color: white;
+        background: rgba($color: #000000, $alpha: 0.43);
+        width: 100%;
+        height: 100%;
+        position: absolute;
+      }
+      .Image {
+        width: 100%;
+        height: 400px;
+        img {
+          width: 100%;
+          height: 100%;
+        }
+      }
+    }
+  }
+}
